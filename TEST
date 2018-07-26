@@ -1,0 +1,12 @@
+f = open ('1.pdf','rb')
+fb = open ('666','wb')
+s=0
+for i in f.read():
+	if s%2==0:
+		i=ord(i)^0x11
+	else:
+		i=ord(i)^0x12
+	s+=1
+	fb.write(chr(i))	
+f.close()
+fb.close()
