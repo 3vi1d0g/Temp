@@ -1,0 +1,11 @@
+GPU	：	七彩虹（Colorful）火神iGame GeForce RTX 2080 SUPER Vulcan X OC 1815-1860MHz GDDR6 8G
+主板：	微星（MSI）MPG X570 GAMING PLUS电脑主板支持3900X/3800X/3700X/3600X（AMD X570/Socket AM4）
+CPU	：	AMD 锐龙9 3900X 处理器 (r9)7nm 12核24线程 3.8GHz 105W AM4接口 盒装CPU
+内存：	美商海盗船(USCORSAIR) DDR4 3600 16GB 台式机内存 复仇者LPX系列 游戏型
+硬盘：	希捷(Seagate)1TB 64MB 7200RPM 台式机机械硬盘 SATA接口 希捷酷鱼BarraCuda系列(ST1000DM010)
+固态：	金士顿(Kingston) 240GB SSD固态硬盘 SATA3.0接口 A400系列
+电源：	美商海盗船 (USCORSAIR) 额定850W RM850x 全模组电脑电源（80PLUS金牌/低噪音 /十年质保/全日系电容）
+机箱:	安钛克(Antec) 冰钻P120 电脑机箱水冷 中塔钢化玻璃 支持E-ATX主板/下置显卡/双360冷排 电竞游戏机箱
+CPU风扇：xx
+
+合计：13848
